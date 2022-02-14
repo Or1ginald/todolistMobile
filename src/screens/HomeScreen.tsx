@@ -23,8 +23,8 @@ const HomeScreen = () => {
 
 const styles = StyleSheet.create({
   container: {
-    paddingTop: 100,
-    color: 'green',
+    marginTop: 100,
+    backgroundColor: '#fff',
     // justifyContent: 'center',
   },
 });
